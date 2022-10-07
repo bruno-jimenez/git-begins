@@ -3,3 +3,5 @@ git push --force
 git push --force
 
 git pull {adresse https ou ssh}
+
+git checkout -b {nom-de-la-branche}
