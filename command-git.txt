@@ -1,3 +1,5 @@
 git psuh --all
 git push --force
 git push --force
+
+git pull {adresse https ou ssh}
