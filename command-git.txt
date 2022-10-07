@@ -1,0 +1,3 @@
+git psuh --all
+git push --force
+git push --force
